@@ -1,0 +1,20 @@
+# .NET build files
+bin/
+obj/
+*.user
+*.suo
+
+# VS Code/Visual Studio settings
+.vscode/
+*.csproj.user
+
+# Build artifacts
+*.dll
+*.exe
+*.db
+
+# Logs
+*.log
+
+# Secrets
+appsettings.*.json
