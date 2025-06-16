@@ -3,6 +3,8 @@ bin/
 obj/
 *.user
 *.suo
+.vs/
+
 
 # VS Code/Visual Studio settings
 .vscode/
